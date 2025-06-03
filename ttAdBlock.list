@@ -1,0 +1,30 @@
+# NAME: talkatoneAdBlock
+# DESCRIPTION: 去除 talkatone 中的广告
+# REJECT
+DOMAIN-SUFFIX,ads.inmobi.com
+DOMAIN-SUFFIX,tappx.com
+DOMAIN-SUFFIX,criteo.com
+DOMAIN-SUFFIX,pubmatic.com
+DOMAIN-SUFFIX,smaato.net
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-KEYWORD,googleads
+DOMAIN-SUFFIX,adsappier.com
+DOMAIN-SUFFIX,appier.net
+DOMAIN-SUFFIX,appiersig.com
+#------------------
+DOMAIN-SUFFIXadclick.g.doubleclick.net
+DOMAIN-SUFFIXadrta.com
+DOMAIN-SUFFIXadsappier.com
+DOMAIN-SUFFIXads.inmobi.com
+DOMAIN-SUFFIXamazon-adsystem.com
+DOMAIN-SUFFIXappier.net
+DOMAIN-SUFFIXappiersig.com
+DOMAIN-SUFFIXcriteo.com
+DOMAIN-SUFFIXd.tktn.be
+DOMAIN-SUFFIXgoogleads.g.doubleclick.net
+DOMAIN-SUFFIXgoogleads4.g.doubleclick.net
+DOMAIN-SUFFIXpubmatic.com
+DOMAIN-SUFFIXsmaato.net
+DOMAIN-SUFFIXtappx.com
+DOMAIN-SUFFIXtelemetry.sdk.inmobi.cn
+DOMAIN-SUFFIXtr-us.adsmoloco.com

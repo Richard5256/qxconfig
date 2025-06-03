@@ -1,0 +1,22 @@
+# NAME: talkatone规则-DIRECT
+DOMAIN-SUFFIX,mobilefuse.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,talkatone.com
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,kochava.com
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,ip-api.com
+IP-CIDR,50.117.27.0/24
+IP-CIDR,69.46.75.0/24
+IP-CIDR,205.164.56.0/24
+IP-CIDR,63.251.124.0/24
+IP-CIDR,63.251.124.0/24
+IP-CIDR,205.164.56.29/24
+#------------
+IP-CIDR,104.244.53.0/24
+IP-CIDR,131.153.7.0/24,
+IP-CIDR,198.24.161.0/24
+IP-CIDR,205.164.56.29/24
+IP-CIDR,216.172.154.0/24
+# 下面这个tktn.be，需要走代理！！！自行设置
+# host-suffix, tktn.be, TW
